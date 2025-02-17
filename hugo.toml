@@ -1,0 +1,13 @@
+baseURL = 'https://trouwen.benstein.nl/'
+languageCode = 'nl'
+title = 'Bruiloft Janiek & Christian'
+
+theme = 'Kaslaanka'
+
+[params]
+sitename = "Bruiloft Janiek & Christian"
+copyrights = "Benstein"
+defaultList = "global"
+paginationLen = 3
+projectsURL = "https://trouwen.benstein.nl"
+brief_about = "<center>Let's get married!</center>"

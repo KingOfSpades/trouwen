@@ -1,0 +1,6 @@
+[submodule "themes/kaslaanka"]
+	path = themes/kaslaanka
+	url = https://github.com/Iossefy/kaslaanka.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
