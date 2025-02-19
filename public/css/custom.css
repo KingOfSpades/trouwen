@@ -6,3 +6,27 @@
 .body {
   font-family: "Times New Roman";
 }
+
+.header-text {
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem;
+  padding-bottom: 2%;
+  border-bottom: 1px solid #e0e0e0;  /* Light grey line */
+  margin-bottom: 2%;  /* Space between the line and the menu */
+}
+
+.nav {
+  padding-bottom: 1.5rem;  /* Reduced from 3rem */
+}
+
+.nav li {
+  list-style-type: none;
+  display: table-cell;
+  font-size: 1.06rem;
+  padding: 0 1.5rem 0 1.5rem;  /* Reduced from 3rem to 1.5rem */
+}
+
+.nav-link {
+  color: #333333 !important;  /* Force black color */
+  text-decoration: underline !important;  /* Force underline */
+}

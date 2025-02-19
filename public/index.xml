@@ -6,6 +6,61 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Bruiloft Janiek &amp; Christian</description>
     
-    <language>nl</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planning</title>
+      <link>http://localhost:1313/planning/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/planning/</guid>
+      <description>&lt;h2 id=&#34;dagplanning&#34;&gt;Dagplanning&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tijd&lt;/th&gt;
+          &lt;th&gt;Activiteit&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:00&lt;/td&gt;
+          &lt;td&gt;Ontvangst gasten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00&lt;/td&gt;
+          &lt;td&gt;Ceremonie&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:00&lt;/td&gt;
+          &lt;td&gt;Receptie&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17:00&lt;/td&gt;
+          &lt;td&gt;Diner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20:00&lt;/td&gt;
+          &lt;td&gt;Feest&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;00:00&lt;/td&gt;
+          &lt;td&gt;Einde&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Meer details volgen&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSVP</title>
+      <link>http://localhost:1313/rsvp/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rsvp/</guid>
+      <description>&lt;h2 id=&#34;laat-ons-weten-of-je-komt&#34;&gt;Laat ons weten of je komt!&lt;/h2&gt;
+&lt;p&gt;Vul alsjeblieft het formulier in voor 1 juni 2024.&lt;/p&gt;
+&lt;p&gt;[Formulier volgt nog&amp;hellip;]&lt;/p&gt;
+&lt;p&gt;Bij vragen kun je contact opnemen via: [email@voorbeeld.nl]&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

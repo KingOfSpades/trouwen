@@ -11,3 +11,18 @@ defaultList = "global"
 paginationLen = 3
 projectsURL = "https://trouwen.benstein.nl"
 brief_about = "<center>Let's get married!</center>"
+
+[[menu.primary]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.primary]]
+name = "Planning"
+url = "/planning"
+weight = 2
+
+[[menu.primary]]
+name = "RSVP"
+url = "/rsvp"
+weight = 3
